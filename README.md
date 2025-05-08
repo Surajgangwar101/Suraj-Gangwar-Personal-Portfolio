@@ -40,6 +40,7 @@ I'm a Web Developer with a strong foundation in both frontend and backend develo
 ## Live Preview
 
 You can preview the website by opening index.html in your browser or [visit the live site](#) if deployed.
+[Visit Live Site](https://surajgangwar101.github.io/Suraj-Gangwar-Personal-Portfolio/)
 
 ## License
 
